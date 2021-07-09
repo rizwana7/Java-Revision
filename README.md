@@ -14,7 +14,7 @@ The JDK Directory Structure
 
 First Java Program through command prompt
 
-First Java Program through Eclipse
+First Java Program through IDE
 
 2. Data types and Operators
 
