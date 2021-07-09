@@ -1,8 +1,8 @@
 # Java
 
- This project consists of programs related to Core Java and Advanced Java.
+This project consists of programs related to Core Java and Advanced Java.
  
- Core Java Programming Introduction of Java
+Core Java Programming Introduction of Java
 
 1. Introduction to Java; features of Java
 
